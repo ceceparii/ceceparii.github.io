@@ -1,0 +1,28 @@
+/*header*/
+
+.header { 
+    max-width: 900px; margin-left: auto; margin-right: auto;
+    background-color: black; height: 80px;
+}
+
+.mnhd {
+    width: 300px;
+    position: absolute;
+}
+.mnhd a {
+    text-decoration: none; background-color: black; color: white;
+}
+.mnhd p {
+    display: inline;
+}
+.logo {
+    background-color: black; height: 80px;
+
+}
+
+div.schd {
+    color: white;
+    max-width: 300px; height: auto; margin-left: 600px;
+    right: 0px; text-align: right; padding-right: 50px;
+    padding-top: 50px;
+}
